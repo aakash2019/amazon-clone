@@ -1,4 +1,13 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This Amazon-Clone project is created with [Create React App](https://github.com/facebook/create-react-app).
+To deploy this app, Firebase is used.
+Material-UI is used as CSS framework.
+
+## Functionality of web application
+This application lets you create an account with email & password.
+You can add the items present on the home page to the basket.
+You can also remove the items if you don't want them in your basket.
+Subtotal of items in the basket is shown at the right hand side of the checkout page.
+
 
 ## Available Scripts
 
